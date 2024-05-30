@@ -7,6 +7,11 @@ Analyse the results and prepare the reports for each module individually.
 
 Here, i have selected **Loadrunner** tool for the testing as it supports multiple protocols and also keeping the Time constraint in mind that the assignment should be completed in 3 days,i felt using Loadrunner is a better option for me.
 
+Application: "https://opensource-demo.orangehrmlive.com"
+
+  OrangeHRM is a comprehensive HR management application which comprises of People Management,Compensation,Talent Management and culture.
+  It is available as Open Source and premium versions.
+
 **Instructions:**
 Understand the Business scenarios
 Collect Non Functional requirements
